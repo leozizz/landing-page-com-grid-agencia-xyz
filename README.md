@@ -7,7 +7,7 @@ Todas as referências e orientações passadas, assim como todo o **Treinamento 
 
 A página deste desafio se trata de uma Landing Page Responsiva que está hospedada no **GitHub Pages**.
 
-Link de acesso a página: **[WEB Agency - Leozizz](https://leozizz.github.io/landing-page-com-grid-agencia-xyz/)
+Link de acesso a página: **[WEB Agency - Leozizz](https://leozizz.github.io/landing-page-com-grid-agencia-xyz/)**
 
 Abaixo você verá uma prévia completa da mesma em diferentes resoluções.
 
