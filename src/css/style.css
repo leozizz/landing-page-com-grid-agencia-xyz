@@ -121,12 +121,13 @@ body {
     width: 100%;
 }
 
-.about .item .btn-know-more {
+.about .item .btn-learn-more {
     font-size: 1.6rem;
     align-self: flex-start;
+    transition: 0.5s;
 }
 
-.about .item .btn-know-more:hover {
+.about .item .btn-learn-more:hover {
     font-weight: 700;
 }
 
@@ -237,6 +238,7 @@ body {
     flex-direction: column;
     text-align: center;
     padding: 100px 0;
+    position: relative;
 }
 
 .footer h4 {
@@ -278,5 +280,24 @@ body {
 }
 
 .footer .social a:hover {
+    color: #fff;
+}
+
+.footer .author {
+    align-self: center;
+    position: absolute;
+    bottom: 10px;
+}
+
+.footer .author i {
+    font-size: 2rem;
+    transition: 0.3s;
+}
+
+.footer .author a {
+    margin: 5px;
+}
+
+.footer .author a:hover{
     color: #fff;
 }
