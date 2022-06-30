@@ -1,7 +1,7 @@
 # Landing Page com Grid e Flexbox
 Repositório criado para realização da Landing Page da Agência XYZ presente no Treinamento DevQuest.
 
-Neste repositório você encontrará o código da Landing Page que foi estruturada utilizando **HTML5** e **CSS3** onde foi feita a utilização de **CSS Grid** e **CSS Flexbox** além de transições e animações realizadas com **CSS puro**, também foi utilizado o **[Font Awesome](https://fontawesome.com) para inserção dos ícones.
+Neste repositório você encontrará o código da Landing Page que foi estruturada utilizando **HTML5** e **CSS3** onde foi feita a utilização de **CSS Grid** e **CSS Flexbox** além de transições e animações realizadas com **CSS puro**, também foi utilizado o **[Font Awesome](https://fontawesome.com)** para inserção dos ícones.
 
 Todas as referências e orientações passadas, assim como todo o **Treinamento DevQuest** são ministrados pelos Gêmeos e toda sua equipe da **[Dev em Dobro](https://www.instagram.com/devemdobro/)**.
 
